@@ -1,0 +1,65 @@
+---
+title: "FOSS4G Asia 2026"
+author: "Nashik ( 21/01/26 - 26/01/26)"
+format:
+  revealjs:
+    logo: assets/gb.png
+    footer: "geobharatcommunity@gmail.com"
+---
+
+## What is FOSS4G
+
+- FOSS4G is an annual Internation gathering of geoinformatics experts to share their knwoledge by doing *Workshops* & *Talks*. 
+- It also helps Geospatial business to grow with *B2B events* , *Exhibitions*, etc. 
+- Started from 2006 globally
+
+---
+
+![FOSS4G asia](assets/foss4g.png)
+
+
+
+## FOSS4G-ASIA 2026 
+
+- FOSS4G ASIA 2026 will happen in **Nashik, (MH), India**
+- Dates : 21<sup>st</sup>/January/2026 - 26<sup>th</sup>/January/2026
+
+![Program structure](assets/program-str.png)
+
+## Benefits for companies
+
+- People coming from multiple locations
+- Big Exhibition Area
+- Showcase products
+- Contribute to Open source
+
+## Sponsorship Opportunities{.smaller}
+
+![Sponsorships](assets/sponsorships.jpeg)
+
+- 18% GST Application on cost
+
+
+## Benefits for attendees
+
+- Attend GIS workshops and talks to gain knowledge
+- Networking with professionals
+- Attend Cultural programs
+- Meet prospect customers/companies
+
+## Registration fees{.smaller}
+
+![Registration](assets/attend.png)
+
+- 18% GST Application on cost
+
+
+## Contact us 
+
+- Email : geobharatcommunity@gmail.com 
+
+- Phone : +91-77438-80438 
+
+- Register your interest 
+
+![Interest Form](assets/interest.png)
